@@ -38,5 +38,7 @@ Regular users can only view bars and price lists. Firebase is used for storing d
 
 ## Manage users
 
-<img src="https://user-images.githubusercontent.com/80363093/234081072-a4bf3809-f6e4-409f-89af-e230c334ea54.png" width=300>
-<img src="https://user-images.githubusercontent.com/80363093/234081064-1c0e28d0-38c1-4afa-93c2-02b0f0bdefe4.png" width=300>
+<div>
+  <img src="https://user-images.githubusercontent.com/80363093/234081072-a4bf3809-f6e4-409f-89af-e230c334ea54.png" width=300>
+  <img src="https://user-images.githubusercontent.com/80363093/234081064-1c0e28d0-38c1-4afa-93c2-02b0f0bdefe4.png" width=300>
+</div>

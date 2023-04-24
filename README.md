@@ -13,16 +13,16 @@ Regular users can only view bars and price lists. Firebase is used for storing d
 
 ### Sign in and Sign up
 <div>
-  <img src="https://user-images.githubusercontent.com/80363093/234078514-c8220aaa-8933-4d25-906b-6a45860b78c4.png" width=350>
-  <img src="https://user-images.githubusercontent.com/80363093/234078518-75d031ce-a7f3-4e16-beff-11c4eb83f132.png" width=350>  
+  <img src="https://user-images.githubusercontent.com/80363093/234078514-c8220aaa-8933-4d25-906b-6a45860b78c4.png" width=300>
+  <img src="https://user-images.githubusercontent.com/80363093/234078518-75d031ce-a7f3-4e16-beff-11c4eb83f132.png" width=300>  
 </div>
 
-
-## Sign up loading
-<img src="https://user-images.githubusercontent.com/80363093/224024076-9cfa3925-76c3-4d5a-8e14-c5aecfddca1c.png" width=350>
-
 ## Bars list and seach bar
-<img src="https://user-images.githubusercontent.com/80363093/224024979-3334af3b-a1f0-4ecc-a586-b1b73d68477c.png" width=350>
+<div>
+  <img src="https://user-images.githubusercontent.com/80363093/234079317-6cd015e8-eafe-4b1a-9378-7ff3fe60de03.png" widgth=300>
+  <img src="https://user-images.githubusercontent.com/80363093/234079505-9e0a3dfe-0596-4b52-b695-5ff76231244f.png" widgth=300>
+  <img src="https://user-images.githubusercontent.com/80363093/234079523-af3f6fd1-52ff-4b6e-bd1d-2e127404b511.png" widgth=300>
+</div>
 
 ## Navigation drawer (Administrator role)
 <img src="https://user-images.githubusercontent.com/80363093/224024340-5b4c6b8f-9b15-4637-8e3f-f66c04b7c216.png" width=350>

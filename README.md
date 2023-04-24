@@ -19,25 +19,24 @@ Regular users can only view bars and price lists. Firebase is used for storing d
 
 ## Bars list and seach bar
 <div>
-  <img src="https://user-images.githubusercontent.com/80363093/234079317-6cd015e8-eafe-4b1a-9378-7ff3fe60de03.png" widgth="250px">
-  <img src="https://user-images.githubusercontent.com/80363093/234079505-9e0a3dfe-0596-4b52-b695-5ff76231244f.png" widgth=250>
-  <img src="https://user-images.githubusercontent.com/80363093/234079523-af3f6fd1-52ff-4b6e-bd1d-2e127404b511.png" widgth=250>
+  <img src="https://user-images.githubusercontent.com/80363093/234079317-6cd015e8-eafe-4b1a-9378-7ff3fe60de03.png" width=300>
+  <img src="https://user-images.githubusercontent.com/80363093/234079505-9e0a3dfe-0596-4b52-b695-5ff76231244f.png" width=300>
+  <img src="https://user-images.githubusercontent.com/80363093/234079523-af3f6fd1-52ff-4b6e-bd1d-2e127404b511.png" width=300>
 </div>
 
-## Navigation drawer (Administrator role)
-<img src="https://user-images.githubusercontent.com/80363093/224024340-5b4c6b8f-9b15-4637-8e3f-f66c04b7c216.png" width=350>
-
-## Price list in bar Saloon
-<img src="https://user-images.githubusercontent.com/80363093/224024442-18af2651-b682-46e6-aba8-cbb2b14476c6.png" width=350>
-
-## Edit drink, Edit bar (Bar owner)
+## My bars
 <div>
-  <img src="https://user-images.githubusercontent.com/80363093/224024521-a26ec246-4f75-423a-ae75-07d97b48e9fb.png" width=350>
-  <img src="https://user-images.githubusercontent.com/80363093/224024683-3c1dc3e6-c071-4993-b049-9cc00f46ce15.png" width=350>
+  <img src="https://user-images.githubusercontent.com/80363093/234080170-9b938219-2a61-459b-8991-d855ba81bc80.png" width=300>
+    <img src="https://user-images.githubusercontent.com/80363093/234080420-55a95e0c-5f65-408f-ac7f-dfb4156bb1f9.png" width=300>
+    <img src="https://user-images.githubusercontent.com/80363093/234080573-584aeaf7-c67b-4296-94c0-652d85fc9979.png" width=300>
+    <img src="https://user-images.githubusercontent.com/80363093/234080580-64464703-b274-43e2-87ba-9d835a84114b.png" width=300>
+    <img src="https://user-images.githubusercontent.com/80363093/234080582-eeecdeac-f2fa-4457-9438-bc8ba9abc8e8.png" width=300>
+    <img src="https://user-images.githubusercontent.com/80363093/234080586-f4f1399b-dd2d-4e25-b790-59f6f9dff6f1.png" width=300>
+    <img src="https://user-images.githubusercontent.com/80363093/234080590-93dcee69-ddaf-4c62-bc96-004f8944b5b7.png" width=300>
+    <img src="https://user-images.githubusercontent.com/80363093/234080872-5961ba0b-e1b6-413c-bed0-0c5490e14f32.png" width=300>
 </div>
 
-## Add bar
-<div>
-  <img src="https://user-images.githubusercontent.com/80363093/224024770-41cbcfda-486b-434a-a6c0-d24e2fff9ba1.png" width=350>
-  <img src="https://user-images.githubusercontent.com/80363093/224024774-6c345ee6-707f-4c82-acf9-4e47def12962.png" width=350>
-</div>
+## Manage users
+
+<img src="https://user-images.githubusercontent.com/80363093/234081072-a4bf3809-f6e4-409f-89af-e230c334ea54.png" width=300>
+<img src="https://user-images.githubusercontent.com/80363093/234081064-1c0e28d0-38c1-4afa-93c2-02b0f0bdefe4.png" width=300>

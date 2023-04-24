@@ -13,9 +13,10 @@ Regular users can only view bars and price lists. Firebase is used for storing d
 
 ### Sign in and Sign up
 <div>
-  <img src="https://user-images.githubusercontent.com/80363093/224023722-14c29118-91a4-4f4b-a19d-976e420abfa2.png" width=350>
-  <img src="https://user-images.githubusercontent.com/80363093/224023959-7a15b404-2976-40d8-be9f-962ecec40ae9.png" width=350>
+  <img src="https://user-images.githubusercontent.com/80363093/234078514-c8220aaa-8933-4d25-906b-6a45860b78c4.png" width=350>
+  <img src="https://user-images.githubusercontent.com/80363093/234078518-75d031ce-a7f3-4e16-beff-11c4eb83f132.png" width=350>  
 </div>
+
 
 ## Sign up loading
 <img src="https://user-images.githubusercontent.com/80363093/224024076-9cfa3925-76c3-4d5a-8e14-c5aecfddca1c.png" width=350>

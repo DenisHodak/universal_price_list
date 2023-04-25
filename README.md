@@ -3,11 +3,16 @@
 Flutter project
 
 ## Description
-App is developed for Bachelor's thesis: [Multiplatform software application development with Flutter](https://zir.nsk.hr/islandora/object/foi%3A7247)
+The Universal Price List App is a multiplatform software application developed with Flutter for my Bachelor's thesis: [Multiplatform software application development with Flutter](https://zir.nsk.hr/islandora/object/foi%3A7247)
 
-This app allows bar owners to publish and manage the price list for their bar. 
-The administrator of the app can give users the permission to add and manage bars. 
-Regular users can only view bars and price lists. Firebase is used for storing data for the app.
+The app is designed to provide a platform for bar owners to create and manage their bars and drinks, and for users to view the drinks and prices at different bars. The app utilizes Firebase for authentication and data storage, and supports three types of users: administrator, moderator (bar owner), and regular user.
+
+## Features
+- User Registration: Users can register as regular users upon signing up.
+- User Roles: Administrators have the ability to promote regular users to moderators (bar owners) who can then create and manage their own bars within the app.
+- Bar Creation: Moderators can create their own bars by providing bar details such as name, location, and image.
+- Drink Management: Moderators can add, edit, and delete drinks along with their prices for their respective bars.
+- Price list: Regular users and other moderators can view the drinks and prices at different bars, but can only edit or delete their own bars and drinks.
 
 ## Screenshots
 
